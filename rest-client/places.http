@@ -1,0 +1,1 @@
+GET https://api.mapbox.com/geocoding/v5/mapbox.places/-63.8569938227038,11.023708979001142.json?language=es&limit=1&access_token=pk.eyJ1IjoibWFqb2g5OSIsImEiOiJjbGZhYzVlZmYwdXB2M3JwZW5sOTl4em80In0.N9sdhHoTSpP2qAHGanzQWQ HTTP/1.1
